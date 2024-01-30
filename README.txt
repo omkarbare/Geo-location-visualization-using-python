@@ -1,4 +1,4 @@
-#Using Google Places API with Database and Visualizing Data on Google Map
+Used Google Places API with Database and Visualizing Data on Google Map
 
 This project utilizes the Google Places API to refine user-entered geographic locations of universities and then displays the data on a Google Map.
 
